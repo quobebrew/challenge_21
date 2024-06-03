@@ -49,7 +49,7 @@ To deploy the project, follow these steps:
 ![KaseiCoinCrowdsaleDeployer Deployment](deployer.gif)
 
 ### KaseiCoinCrowdsale Token Raised
-![KaseiCoinCrowdsale Tokens Raised](Token Raised.png)
+![KaseiCoinCrowdsale Tokens Raised](Token_Raised.png)
 
 
 ## Usage
