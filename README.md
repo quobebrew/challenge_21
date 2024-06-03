@@ -40,7 +40,7 @@ To deploy the project, follow these steps:
 ![KaseiCoin Compile](KaseiCoin_Compile.PNG)
 
 ### KaseiCoin/Token Deployment
-![KaseiCoin Deployment](Kaseicoin_Deployment.PNG)
+![KaseiCoin Deployment](KaseiCoin_Deployment.PNG)
 
 ### KaseiCoinCrowdsaleDeployer Contract Deployment
 ![KaseiCoinCrowdsaleDeployer Deployment](placeholder_image_url)
