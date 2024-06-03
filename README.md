@@ -42,16 +42,14 @@ To deploy the project, follow these steps:
 ### KaseiCoin/Token Deployment
 ![KaseiCoin Deployment](KaseiCoin_Deployment.PNG)
 
-### KaseiCoinCrowdsaleDeployer Contract Deployment
-![KaseiCoinCrowdsaleDeployer Deployment](vlc-record-2024-06-03-17h52m38s-Remix - Ethereum IDE - Google Chrome-.gif)
+### KaseiCoinCrowdsale
+![KaseiCoinCrowdsale Deployment](Crowdsale.png)
 
-### KaseiCoinCrowdsale Contract Deployment Video
-![KaseiCoinCrowdsale Deployment](Deployed KaseiCoinCrowdsale.mp4)
+### KaseiCoinCrowdsaleDeployer Contract Deployment Video
+![KaseiCoinCrowdsaleDeployer Deployment](deployer.gif)
 
-
-### KaseiCoin Token Contract Deployment
-![KaseiCoin Token Deployment](placeholder_image_url)
-
+### KaseiCoinCrowdsale Token Raised
+![KaseiCoinCrowdsale Tokens Raised](Token Raised.png)
 
 
 ## Usage
