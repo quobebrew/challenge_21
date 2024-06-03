@@ -42,6 +42,9 @@ To deploy the project, follow these steps:
 ### KaseiCoin/Token Deployment
 ![KaseiCoin Deployment](KaseiCoin_Deployment.PNG)
 
+### KaseiCoinCrowdsale Contract Deployment Video
+![KaseiCoinCrowdsale Deployment](Deployed KaseiCoinCrowdsale.mp4)
+
 ### KaseiCoinCrowdsaleDeployer Contract Deployment
 ![KaseiCoinCrowdsaleDeployer Deployment](placeholder_image_url)
 
@@ -49,9 +52,7 @@ To deploy the project, follow these steps:
 
 ![KaseiCoin Token Deployment](placeholder_image_url)
 
-### KaseiCoinCrowdsale Contract Deployment
 
-![KaseiCoinCrowdsale Deployment](placeholder_image_url)
 
 ## Usage
 
