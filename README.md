@@ -33,8 +33,16 @@ To deploy the project, follow these steps:
 
 ## Evaluation Evidence
 
-### KaseiCoinCrowdsaleDeployer Contract Deployment
+### MetaMask - Ganache 
+![Linking Ganache , MetMask and Remix](Ganache_MetaMask_Account.PNG)
 
+### Compile KaseiCoin.sol
+![KaseiCoin Compile](KaseiCoin_Compile.PNG)
+
+### KaseiCoin/Token Deployment
+![KaseiCoin Deployment](Kaseicoin_Deployment.PNG)
+
+### KaseiCoinCrowdsaleDeployer Contract Deployment
 ![KaseiCoinCrowdsaleDeployer Deployment](placeholder_image_url)
 
 ### KaseiCoin Token Contract Deployment
